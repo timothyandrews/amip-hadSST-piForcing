@@ -1,6 +1,6 @@
 # amip-piForcing and hadSST-piForcing datasets
 
-This repository contains the global-annual-ensemble-mean dT and dN fluxes `amip-piForcing`, `hadSST-piForcing` and `abrupt-4xCO2` simulations used in Andrews et al. (in prep).
+This repository contains the global-annual-ensemble-mean dT and dN fluxes from `amip-piForcing`, `hadSST-piForcing` and `abrupt-4xCO2` simulations as described in Andrews et al. (submitted).
 
 Tim Andrews
 
@@ -25,8 +25,8 @@ As `amip-piForcing` but using HadISST1 SST boundary conditions instead (sea-ice 
 
 ## Data files
 
-See `data` directory.
+See netCDF files in `data` directory.
 
-## Citation
+## Citation and Use
 
 Please contact the author (timothy.andrews@metoffice.gov.uk).
