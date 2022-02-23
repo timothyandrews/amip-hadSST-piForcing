@@ -26,23 +26,23 @@ February 2022.
 
 All data are global-annual-ensemble-mean dT and dN timeseries. Ensemble size and time-periods covered for each experiment and AGCM is indicated in the table below.
 
-| AGCM | Corresponding AOGCM name | Model description | amip-piForcing | amip-piForcing | hadSST-piForcing | hadSST-piForcing |
-| --- | --- | --- | --- | --- | --- | --- |
-| | | | Ensemble size | Time-period covered | Ensemble size | Time-period covered |
-| CAM4 | CCSM4 | Neale et al. (2013) | 3 | 1870 – 2014 | 3 | 1870 – 2014 |
-| CESM2 | unchanged | Danabasoglu et al. (2020) | 1 | 1870 – 2014 | - |	- |
-| CNRM-CM6-1 | unchanged | Voldoire et al. (2019) | 1 | 1870 – 2014 | - | - |
-| CanESM5 | unchanged | Swart et al. (2019) | 3 | 1870 – 2014 |	- | - |
-| ECHAM6.3 | MPI-ESM1.1 | Mauritsen et al. (2019) | 5 | 1871 – 2010 | 5 | 1871 – 2015 |
-| GFDL-AM3 | GFDL-CM3 | Donner et al. (2011) | 1 | 1870 – 2014 | 1 | 1870 – 2014 |
-| GFDL-AM4 | GFDL-CM4 | Held et al. (2019) | 1 | 1870 – 2016 | 1 | 1870 – 2016 |
-| HadAM3 | HadCM3 | Pope et al. (2000) | 4 | 1871 – 2012 | 4 | 1871 – 2012 |
-| HadGEM2 | HadGEM2-ES | Martin et al. (2011) | 4 | 1871 – 2012	 | 1 | 1871 – 2012 |
-| HadGEM3-GC31-LL | unchanged |	Williams et al. (2017) | 1 | 1870 – 2014 | 1 | 1871 – 2016 |
-| IPSL-CM6A-LR | unchanged | Boucher et al. (2020) | 1 | 1870 – 2014 | - | - |
-| MIROC6 | unchanged | Tatebe et al. (2019) | 1 | 1870 – 2014 | - | - |
-| MRI-ESM2-0 | unchanged | Yukimoto et al. (2019), Kawai et al. (2019) | 1 | 1870 – 2014 | - | - |
-| MPI-ESM1-2-LR | unchanged | Mauritsen et al. (2019) |	3  | 1871 – 2017 | 3 | 1871 – 2017 |
+| AGCM | Model description | amip-piForcing | amip-piForcing | hadSST-piForcing | hadSST-piForcing |
+| --- | --- | --- | --- | --- | --- |
+| | | Ensemble size | Time-period covered | Ensemble size | Time-period covered |
+| CAM4 | Neale et al. (2013) | 3 | 1870 – 2014 | 3 | 1870 – 2014 |
+| CESM2 | Danabasoglu et al. (2020) | 1 | 1870 – 2014 | - |	- |
+| CNRM-CM6-1 | Voldoire et al. (2019) | 1 | 1870 – 2014 | - | - |
+| CanESM5 | Swart et al. (2019) | 3 | 1870 – 2014 |	- | - |
+| ECHAM6.3 | Mauritsen et al. (2019) | 5 | 1871 – 2010 | 5 | 1871 – 2015 |
+| GFDL-AM3 | Donner et al. (2011) | 1 | 1870 – 2014 | 1 | 1870 – 2014 |
+| GFDL-AM4 | Held et al. (2019) | 1 | 1870 – 2016 | 1 | 1870 – 2016 |
+| HadAM3 | Pope et al. (2000) | 4 | 1871 – 2012 | 4 | 1871 – 2012 |
+| HadGEM2 | Martin et al. (2011) | 4 | 1871 – 2012	 | 1 | 1871 – 2012 |
+| HadGEM3-GC31-LL | Williams et al. (2017) | 1 | 1870 – 2014 | 1 | 1871 – 2016 |
+| IPSL-CM6A-LR | Boucher et al. (2020) | 1 | 1870 – 2014 | - | - |
+| MIROC6 | Tatebe et al. (2019) | 1 | 1870 – 2014 | - | - |
+| MRI-ESM2-0 | Yukimoto et al. (2019), Kawai et al. (2019) | 1 | 1870 – 2014 | - | - |
+| MPI-ESM1-2-LR | Mauritsen et al. (2019) |	3  | 1871 – 2017 | 3 | 1871 – 2017 |
 
 
 ## Data files
