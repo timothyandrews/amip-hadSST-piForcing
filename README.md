@@ -27,6 +27,7 @@ February 2022.
 All data are global-annual-ensemble-mean dT and dN timeseries. Ensemble size and time-periods covered for each experiment and AGCM is indicated in the table below.
 
 | AGCM | Corresponding AOGCM name | Model description | amip-piForcing | amip-piForcing | hadSST-piForcing | hadSST-piForcing |
+| --- | --- | --- | --- | --- | --- | --- |
 | | | | Ensemble size | Time-period covered | Ensemble size | Time-period covered |
 | CAM4 | CCSM4 | Neale et al. (2013) | 3 | 1870 – 2014 | 3 | 1870 – 2014 |
 | CESM2 | unchanged | Danabasoglu et al. (2020) | 1 | 1870 – 2014 | - |	- |
