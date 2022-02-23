@@ -1,6 +1,6 @@
 # amip-piForcing and hadSST-piForcing datasets
 
-This repository contains the global-annual-ensemble-mean dT and dN fluxes from `amip-piForcing`, `hadSST-piForcing` and `abrupt-4xCO2` simulations as described in Andrews et al. (submitted).
+This repository contains the supporting global-annual-ensemble-mean dT and dN fluxes from `amip-piForcing`, `hadSST-piForcing` and `abrupt-4xCO2` simulations used and described in Andrews et al. (submitted).
 
 Tim Andrews
 
@@ -8,20 +8,41 @@ Met Office Hadley Centre.
 
 February 2022.
 
-
-## Data description
+## Experiment descriptions
 
 ### amip-piForcing
 
-AGCM forced with monthly varying AMIP II SST and sea-ice boundary conditions.
+`amip-piForcing` refers to an AGCM simulation forced with time-varying observed monthly SSTs and sea-ice using the AMIP II boundary condition SST and sea-ice dataset, forcing agents such greenhouse gases, aerosol emission etc. are kept at pre-industrial levels.
 
 ### hadSST-piForcing
 
-As `amip-piForcing` but using HadISST1 SST boundary conditions instead (sea-ice remains as per AMIP II)
+`hadSST-piForcing` is identical to `amip-piForcing` in all aspects except SST boundary conditions are taken from HadISST1 (sea-ice remains the same as `amip-piForcing`)
 
 ### abrupt-4xCO2
 
-`abrupt-4xCO2` simulations with AGCMs parent AOGCM.
+`abrupt-4xCO2` simulations with each AGCMs parent AOGCM.
+
+## Data description
+
+All data are global-annual-ensemble-mean dT and dN timeseries. Ensemble size and time-periods covered for each experiment and AGCM is indicated in the table below.
+
+| AGCM | Corresponding AOGCM name | Model description | amip-piForcing | amip-piForcing | hadSST-piForcing | hadSST-piForcing |
+| | | | Ensemble size | Time-period covered | Ensemble size | Time-period covered |
+| CAM4 | CCSM4 | Neale et al. (2013) | 3 | 1870 – 2014 | 3 | 1870 – 2014 |
+| CESM2 | unchanged | Danabasoglu et al. (2020) | 1 | 1870 – 2014 | - |	- |
+| CNRM-CM6-1 | unchanged | Voldoire et al. (2019) | 1 | 1870 – 2014 | - | - |
+| CanESM5 | unchanged | Swart et al. (2019) | 3 | 1870 – 2014 |	- | - |
+| ECHAM6.3 | MPI-ESM1.1 | Mauritsen et al. (2019) | 5 | 1871 – 2010 | 5 | 1871 – 2015 |
+| GFDL-AM3 | GFDL-CM3 | Donner et al. (2011) | 1 | 1870 – 2014 | 1 | 1870 – 2014 |
+| GFDL-AM4 | GFDL-CM4 | Held et al. (2019) | 1 | 1870 – 2016 | 1 | 1870 – 2016 |
+| HadAM3 | HadCM3 | Pope et al. (2000) | 4 | 1871 – 2012 | 4 | 1871 – 2012 |
+| HadGEM2 | HadGEM2-ES | Martin et al. (2011) | 4 | 1871 – 2012	 | 1 | 1871 – 2012 |
+| HadGEM3-GC31-LL | unchanged |	Williams et al. (2017) | 1 | 1870 – 2014 | 1 | 1871 – 2016 |
+| IPSL-CM6A-LR | unchanged | Boucher et al. (2020) | 1 | 1870 – 2014 | - | - |
+| MIROC6 | unchanged | Tatebe et al. (2019) | 1 | 1870 – 2014 | - | - |
+| MRI-ESM2-0 | unchanged | Yukimoto et al. (2019), Kawai et al. (2019) | 1 | 1870 – 2014 | - | - |
+| MPI-ESM1-2-LR | unchanged | Mauritsen et al. (2019) |	3  | 1871 – 2017 | 3 | 1871 – 2017 |
+
 
 ## Data files
 
@@ -29,4 +50,6 @@ See netCDF files in `data` directory.
 
 ## Citation and Use
 
-Please contact the author (timothy.andrews@metoffice.gov.uk).
+Andrews, T, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, A. Bodas-Salcedo, R.P. Allan and C. Liu: On the effect of historical SST patterns on radiative feedback. Submitted to Journal of Geophysical Research.
+
+Please contact the author (timothy.andrews@metoffice.gov.uk) before use.
