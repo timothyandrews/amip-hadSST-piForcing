@@ -53,4 +53,4 @@ See netCDF files in `data` directory.
 
 Andrews, T, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, A. Bodas-Salcedo, R.P. Allan and C. Liu: On the effect of historical SST patterns on radiative feedback. Submitted to Journal of Geophysical Research.
 
-Please contact the author (timothy.andrews@metoffice.gov.uk) before use.
+Please contact the author (timothy.andrews@metoffice.gov.uk) before using the data.
