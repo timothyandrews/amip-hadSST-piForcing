@@ -8,6 +8,10 @@ Met Office Hadley Centre.
 
 February 2022.
 
+* Updated 1st July 2022:
+	- Included data from CESM2 `hadSST-piForcing` simulation.
+	- Corrected bug in `hadSST-piForcing` filenames (hadisst-piForcing -> hadSST-piForcing).
+
 ## Experiment descriptions
 
 ### amip-piForcing
@@ -30,7 +34,7 @@ All data are global-annual-ensemble-mean dT and dN timeseries. Ensemble size and
 | --- | --- | --- | --- | --- | --- |
 | | | Ensemble size | Time-period covered | Ensemble size | Time-period covered |
 | CAM4 | Neale et al. (2013) | 3 | 1870 – 2014 | 3 | 1870 – 2014 |
-| CESM2 | Danabasoglu et al. (2020) | 1 | 1870 – 2014 | - |	- |
+| CESM2 | Danabasoglu et al. (2020) | 1 | 1870 – 2014 | 1 | 1870 – 2015 |
 | CNRM-CM6-1 | Voldoire et al. (2019) | 1 | 1870 – 2014 | - | - |
 | CanESM5 | Swart et al. (2019) | 3 | 1870 – 2014 |	- | - |
 | ECHAM6.3 | Mauritsen et al. (2019) | 5 | 1871 – 2010 | 5 | 1871 – 2015 |
