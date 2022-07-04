@@ -11,6 +11,8 @@ February 2022.
 * Updated 1st July 2022:
 	- Included data from CESM2 `hadSST-piForcing` simulation.
 	- Corrected bug in `hadSST-piForcing` filenames (hadisst-piForcing -> hadSST-piForcing).
+* Updated 4th July 2022:
+	- Updated ESSOAR link from submitted to revised manuscript.
 
 ## Experiment descriptions
 
@@ -55,6 +57,6 @@ See netCDF files in `data` directory.
 
 ## Citation and Use
 
-Andrews, T, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, A. Bodas-Salcedo, R.P. Allan and C. Liu: [On the effect of historical SST patterns on radiative feedback](https://www.essoar.org/doi/10.1002/essoar.10510623.2). Submitted to Journal of Geophysical Research.
+Andrews, T, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, A. Bodas-Salcedo, R.P. Allan and C. Liu: [On the effect of historical SST patterns on radiative feedback](https://www.essoar.org/doi/10.1002/essoar.10510623.3). Submitted to Journal of Geophysical Research.
 
 Please contact the author (timothy.andrews@metoffice.gov.uk) before using the data.
