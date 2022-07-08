@@ -13,6 +13,8 @@ February 2022.
 	- Corrected bug in `hadSST-piForcing` filenames (hadisst-piForcing -> hadSST-piForcing).
 * Updated 4th July 2022:
 	- Updated ESSOAR link from submitted to revised manuscript.
+* Updated 8th July 2022:
+	- Updated references and license
 
 ## Experiment descriptions
 
@@ -57,8 +59,13 @@ See netCDF files in `data` directory.
 
 ## Citation and Use
 
-Andrews, T, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, A. Bodas-Salcedo, R.P. Allan and C. Liu: [On the effect of historical SST patterns on radiative feedback](https://www.essoar.org/doi/10.1002/essoar.10510623.3). Submitted to Journal of Geophysical Research.
+Manuscript: Andrews, T, A. Bodas-Salcedo, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, R.P. Allan and C. Liu: [On the effect of historical SST patterns on radiative feedback](https://www.essoar.org/doi/10.1002/essoar.10510623.3). Submitted to Journal of Geophysical Research.
 
-v1.0 release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6799004.svg)](https://doi.org/10.5281/zenodo.6799004)
+Dataset: Andrews, T, A. Bodas-Salcedo, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, R.P. Allan and C. Liu, (2022). amip-piForcing and HadSST-piForcing simulation data (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6799004.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6799004.svg)](https://doi.org/10.5281/zenodo.6799004)
 
 Please contact the author (timothy.andrews@metoffice.gov.uk) before using the data.
+
+## License
+
+This data is made available under the terms of the [Non-Commercial Government Licence](https://www.nationalarchives.gov.uk/doc/non-commercial-government-licence/version/2/).
