@@ -1,6 +1,6 @@
 # amip-piForcing and hadSST-piForcing datasets
 
-This repository contains the supporting global-annual-ensemble-mean dT and dN fluxes from `amip-piForcing`, `hadSST-piForcing` and `abrupt-4xCO2` simulations used and described in Andrews et al. (submitted).
+This repository contains the supporting global-annual-ensemble-mean dT and dN fluxes from `amip-piForcing`, `hadSST-piForcing` and `abrupt-4xCO2` simulations used and described in [Andrews et al. (2022)](https://doi.org/10.1029/2022JD036675).
 
 Tim Andrews
 
@@ -15,6 +15,8 @@ February 2022.
 	- Updated ESSOAR link from submitted to revised manuscript.
 * Updated 8th July 2022:
 	- Updated references and license
+* Updated 6th July 2023:
+	- Updated to published reference
 
 ## Experiment descriptions
 
@@ -59,7 +61,7 @@ See netCDF files in `data` directory.
 
 ## Citation and Use
 
-Manuscript: Andrews, T, A. Bodas-Salcedo, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, R.P. Allan and C. Liu: [On the effect of historical SST patterns on radiative feedback](https://www.essoar.org/doi/10.1002/essoar.10510623.3). Submitted to Journal of Geophysical Research.
+Manuscript:  Andrews, T., Bodas-Salcedo, A., Gregory, J. M., Dong, Y., Armour, K. C., Paynter, D., et al. (2022). [On the effect of historical SST patterns on radiative feedback](https://doi.org/10.1029/2022JD036675). Journal of Geophysical Research: Atmospheres, 127, e2022JD036675. https://doi.org/10.1029/2022JD036675. 
 
 Dataset: Andrews, T, A. Bodas-Salcedo, J.M. Gregory, Y. Dong, K. Armour, D. Paynter, P. Lin, A. Modak, T. Mauritsen, J. Cole, B. Medeiros, J. Benedict, H. Douville, R. Roehrig, T. Koshiro, H. Kawai, T. Ogura, J.-L. Dufresne, R.P. Allan and C. Liu, (2022). amip-piForcing and HadSST-piForcing simulation data (v1.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.6799004.
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6799004.svg)](https://doi.org/10.5281/zenodo.6799004)
